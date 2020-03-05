@@ -9,6 +9,7 @@ You can reach the dataset from (also as Traffic_index.csv file in the repository
 https://data.ibb.gov.tr/en/dataset/trafik-indeks-raporu
 
 About the Traffic index dataset:
+
 The dataset provides the Traffic index (%) used in IBB traffic app.It has two columns index and time (including date and hour).
 Though they did not include information about the calculation of the index, from the app we can deduce that it is calculated similar to the traffic index of Google Maps and it shows traffic as percentage.
 In the data set min is 1% and max 81% both reasonable by being positive integers less than 100%.
