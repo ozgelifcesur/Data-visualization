@@ -1,8 +1,8 @@
 I created Jupyter notebook as one of my assignments in Applied Plotting, Charting & Data Representation in Python course at Coursera.
 The dataset was provided for Ann Arbor,Michigan, USA.
 
-Through the assignment I first learned to use .. to visualize the locations that the temperature data is collected.
-Scatter plot is used on .. to denote locations. Since it is an interactive plot, I recommend opening the notebook to see it.
+Through the assignment I first learned to use mplleaflet package to visualize the locations that the temperature data is collected.
+Scatter plot is to denote locations. Since it is an interactive plot, I recommend opening the notebook to see it.
 
 Second aim was comparing the recorded high and low temperatures in 2015 to temperature trend between 2005-2014.
 Hence I used a line plot with days of a year on x-axis and temperatures (C) in y-axis. 
