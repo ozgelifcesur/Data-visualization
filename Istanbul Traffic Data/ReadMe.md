@@ -23,8 +23,9 @@ Conclusion:
 
 I tried to test the general belief that residents of Istanbul leave Istanbul in religious holidays hence leading a lower traffic in holidays but higher traffic in the days just before or after the holidays. 
 I conclude that the traffic in Istanbul significantly less in religious holidays, however we can not conclude about people leaving Istanbul since we do not have higher traffic in the days before holidays.
-Lastly, I acknowledge that only having 1 year data which is not even on main roads level is leaving us with a primitive analysis but we can at least see the lower traffic rates in general in holidays.
+Lastly, I acknowledge that only having 1 year data which is not even on main roads level is leaving us with a primitive analysis. But we can at least see the lower traffic rates in holidays clearly in the following heatmap.
 
+![alt tag](https://github.com/ozgelifcesur/Data-visualization/blob/master/Istanbul%20Traffic%20Data/densityheatmap.png)
 
 Further analysis to be done:
 
